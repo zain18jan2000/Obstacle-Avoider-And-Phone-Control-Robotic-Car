@@ -1,4 +1,4 @@
-# Obstacle-avoider-with-remote-control
+# Obstacle-Avoider-And-Phone-Controlled-Robotic-Car
 
 <h1>COMPONENTS USED</h1><br><br>
 
@@ -10,5 +10,6 @@
 6- Servo Motor <br>
 7- Ultrasonic Sensor HC-SRO4 <br>
 8- Battery x 3 <br>
+9- Ultrasonic Holder
 
 
