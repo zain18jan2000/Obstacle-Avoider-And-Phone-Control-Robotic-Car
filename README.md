@@ -4,7 +4,7 @@
 
 1- Arduino uno <br>
 2- NodeMCU<br>
-3- Moter driver L298 <br>
+3- Moter driver L298N <br>
 4- BO Motor x 2 <br>
 5- Bread Board <br>
 6- Servo Motor <br>
