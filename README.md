@@ -14,4 +14,4 @@
 
 
 <h1> CONNECTION DIAGRAM</h1>
-![arduino](https://user-images.githubusercontent.com/82854685/151069756-f76b1fac-9283-4aa1-aa20-aa0201179b8d.JPG)
+!(https://user-images.githubusercontent.com/82854685/151069756-f76b1fac-9283-4aa1-aa20-aa0201179b8d.JPG)
