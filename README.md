@@ -12,7 +12,7 @@
 8- Ultrasonic Holder <br>
 9- Jumper wires <br>
 
-<h1>CIRCUIT DIAGRAM</h1>
+<h1>CONNECTION DIAGRAM</h1>
 <br>
 
 
